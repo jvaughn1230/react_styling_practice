@@ -24,7 +24,7 @@ if (currentTime < 12) {
   customStyle.color = "green";
 } else {
   greeting = "Godd Night";
-  customerStyle.color = "blue";
+  customStyle.color = "blue";
 }
 ReactDOM.render(
   <div>
